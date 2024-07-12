@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Urmi</h1>
-<h3 align="center">Coding for a Better Tomorrow|Committing Innovation</h3>
-<img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<h2 align="center">Coding for a Better Tomorrow|Committing Innovation</h2>
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmikhan99&label=Profile%20views&color=0e75b6&style=flat" alt="urmikhan99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
